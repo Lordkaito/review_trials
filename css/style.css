@@ -105,7 +105,6 @@ a {
   padding: 1em;
   background-color: var(--main-gray);
   color: var(--main-white);
-
 }
 
 img {
@@ -129,7 +128,7 @@ img {
 
 #social-section > div > h1 {
   font-size: 3.5em;
-  margin-bottom: .2em;
+  margin-bottom: 0.2em;
 }
 
 #social-section > h3 {
